@@ -1,0 +1,7 @@
+[project]
+name = "azure-multi-model-compliance-ingestion-engine-using-langgragh"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
